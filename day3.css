@@ -1,0 +1,30 @@
+.box1{
+/* border-style:dashed */
+/* border-width: 5px */
+/* border-color:lightcoral */
+border:5px dashed red;
+margin-top:50px;
+margin-right:30px;
+margin-left: 20px;
+margin-bottom: 30px
+}
+.box2{
+    /* border-style:dashed */
+    /* border-width: 5px */
+    /* border-color:lightcoral */
+    border:5px dashed red;
+    margin-top:50px;
+    margin-right:30px;
+    margin-left: 20px;
+    margin-bottom: 30px
+    }
+    .box3{
+        /* border-style:dashed */
+        /* border-width: 5px */
+        /* border-color:lightcoral */
+        border:5px dashed red;
+        margin-top:50px;
+        margin-right:30px;
+        margin-left: 20px;
+        margin-bottom: 30px
+        }

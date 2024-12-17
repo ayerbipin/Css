@@ -1,0 +1,10 @@
+body {
+    background-image: url("1731157703045.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center bottom;
+    background-size: cover; 
+    background-color: rgb(44, 92, 76) url("1731157703045.jpg")no-repeat center middle fixed; }
+p {
+    background-color: rgb(131, 109, 153);
+}
